@@ -1,8 +1,6 @@
 #!/bin/sh
 # vact.sh
 # You need to add the following alias: alias vact='source ~/bin/vact.sh'
-# original venv_switch.sh from http://nipy.org/nipy/devel/tools/virtualenv-tutor.html
-# switch between different virtual environments
 
 # verify a virtualenv is passed in
 if [ $# -ne 1 ]
